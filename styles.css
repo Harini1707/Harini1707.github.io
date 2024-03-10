@@ -62,7 +62,7 @@
   border-radius: 25px;
 }
 .skill_bar .bar .html{
-  width: 90%;
+  width: 70%;
   animation: html 2s;
 }
 @keyframes html {
@@ -95,7 +95,7 @@
   }
 }
 .skill_bar .bar .js{
-  width: 80%;
+  width: 50%;
   animation: css 2s;
 }
 @keyframes js {
@@ -128,7 +128,7 @@
   }
 }
 .skill_bar .bar .express{
-  width: 65%;
+  width: 90%;
   animation: express 2s;
 }
 @keyframes express {
@@ -139,7 +139,7 @@
   }
 }
 .skill_bar .bar .mongo{
-  width: 60%;
+  width: 90%;
   animation: mongo 2s;
 }
 @keyframes mongo {
